@@ -5,7 +5,8 @@ I love SQL and think its can find anything from nothing.
 
 ## Skills and Experience
 🥇PostgreSql
-🥈Oracle SQL, T-SQL
-🥉Python
+🥈Python
+🥉Oracle SQL, T-SQL
+🏆HTML, CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KsenoLv&show_icons=true&theme=transparent)
