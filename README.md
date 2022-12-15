@@ -7,6 +7,10 @@ I love SQL and think its can find anything from nothing.
 * 🥈Oracle SQL, T-SQL
 * 🥉HTML, CSS
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 * 📫  How to reach me: ksenofontov.mihail@gmail.com OR [Telegram](https://t.me/psqlpro)
 * 👨‍💻  Read more about my projects at [psql.pro](https://www.psql.pro)
 
