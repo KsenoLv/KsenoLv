@@ -7,7 +7,7 @@ I love SQL and think its can find anything from nothing.
 * 🥈Oracle SQL, T-SQL
 * 🥉HTML, CSS
 
-📫  How to reach me: ksenofontov.mihail@gmail.com
-👨‍💻  Read more about my projects at psql.pro
+* 📫  How to reach me: ksenofontov.mihail@gmail.com OR [Telegram](https://t.me/psqlpro)
+* 👨‍💻  Read more about my projects at [psql.pro](https://www.psql.pro)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KsenoLv&show_icons=true&theme=transparent)
