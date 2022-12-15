@@ -7,6 +7,10 @@ I love SQL and think its can find anything from nothing.
 * 🥈Oracle SQL, T-SQL
 * 🥉HTML, CSS
 
+### Contacts
+* 📫  How to reach me: 📫 ksenofontov.mihail@gmail.com or 💬 [Telegram](https://t.me/psqlpro)
+* 👨‍💻  Read more about my projects at 💻 [psql.pro](https://www.psql.pro)
+
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Creating a database and a tables.](https://psql.pro/creating-a-database-and-a-table/)
@@ -15,10 +19,6 @@ I love SQL and think its can find anything from nothing.
 - [VPS installation and software setup.](https://psql.pro/vps-installation-and-software-setup/)
 - [NYSE: New-York Stock Exchange.](https://psql.pro/nyse-new-york-stock-exchange/)
 <!-- BLOG-POST-LIST:END -->
-
-### Contacts
-* 📫  How to reach me: ksenofontov.mihail@gmail.com OR [Telegram](https://t.me/psqlpro)
-* 👨‍💻  Read more about my projects at [psql.pro](https://www.psql.pro)
 
 ### Statistics
 
