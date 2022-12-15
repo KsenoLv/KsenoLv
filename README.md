@@ -9,6 +9,11 @@ I love SQL and think its can find anything from nothing.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating a database and a tables.](https://psql.pro/creating-a-database-and-a-table/)
+- [DB – automation of the process.](https://psql.pro/db-automation-of-the-process/)
+- [DATA parsing with Python scripts.](https://psql.pro/data-parsing-with-python-scripts/)
+- [VPS installation and software setup.](https://psql.pro/vps-installation-and-software-setup/)
+- [NYSE: New-York Stock Exchange.](https://psql.pro/nyse-new-york-stock-exchange/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Contacts
