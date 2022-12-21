@@ -8,8 +8,8 @@ I love SQL and think its can find anything from nothing.
 * 🥉HTML, CSS
 
 ### Contacts
-* 📫  How to reach me: 📫 ksenofontov.mihail@gmail.com or 💬 [Telegram](https://t.me/psqlpro)
-* 👨‍💻  Read more about my projects at 💻 [psql.pro](https://www.psql.pro)
+* How to reach me: 📫 ksenofontov.mihail@gmail.com or 💬 [Telegram](https://t.me/psqlpro)
+* Read more about my projects at 💻 [psql.pro](https://www.psql.pro)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
