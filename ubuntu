@@ -1,2 +1,3 @@
 # postgres to check port
 sudo -u postgres psql
+\conninfo
