@@ -1,1 +1,15 @@
 # MAin script 
+
+from pandas_datareader import data as pdr
+import datetime as dt
+
+with open(r'C:\Pdata\NYSE\OUT\nyse_ticker2.txt') as file:
+    stocks = eval(file.read())
+directory = (r'C:\Pdata\NYSE\IN\\')
+file_name = 'nyse_data_new.csv'
+end = dt.datetime.now()
+start = dt.datetime(2023, 1, 20)
+for item in stocks:
+    df = pdr.get_data_yahoo(symbols=stocks, start=start).stack("Symbols")
+    df.to_csv(directory + file_name)
+    exit()
