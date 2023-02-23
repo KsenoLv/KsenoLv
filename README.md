@@ -3,9 +3,7 @@ I am excited to dig in huge mount of data, find patterns in chaos. Create someth
 I love SQL and think its can find anything from nothing.
 
 ### Skills and Experience
-* 🥇PostgreSql, Power BI
-* 🥈Oracle SQL, T-SQL
-* 🥉HTML, CSS, Python
+* 💼 SQL, Python, Power BI, HTML, CSS
 
 ### Contacts
 * How to reach me: 📫 ksenofontov.mihail@gmail.com or 💬 [Telegram](https://t.me/psqlpro)
