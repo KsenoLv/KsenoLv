@@ -12,9 +12,9 @@ I love SQL and think its can find anything from nothing.
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Building a Portfolio Management System with SQL.](https://psql.pro/building-a-portfolio-management-system-with-sql/)
-- [Creating a database and a tables.](https://psql.pro/creating-a-database-and-a-table/)
-- [DB – automation of the process.](https://psql.pro/db-automation-of-the-process/)
-- [DATA parsing with Python scripts.](https://psql.pro/data-parsing-with-python-scripts/)
+- [Creating DB and a tables.](https://psql.pro/creating-a-database-and-a-table/)
+- [Database Automation with PgAgent.](https://psql.pro/db-automation-of-the-process/)
+- [DATA scraping with Python scripts.](https://psql.pro/data-parsing-with-python-scripts/)
 - [VPS installation and software setup.](https://psql.pro/vps-installation-and-software-setup/)
 <!-- BLOG-POST-LIST:END -->
 
