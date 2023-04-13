@@ -11,11 +11,11 @@ I love SQL and think its can find anything from nothing.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Install PostgreSQL on Ubuntu.](https://psql.pro/install-postgresql-on-ubuntu/)
 - [Python on Ubuntu with cron.](https://psql.pro/python-on-ubuntu-with-cron/)
 - [FOREX: Market data.](https://psql.pro/forex-market-data/)
 - [Building a Portfolio Management System with SQL.](https://psql.pro/building-a-portfolio-management-system-with-sql/)
 - [Creating a Database with SQL.](https://psql.pro/creating-a-database-and-a-table/)
+- [Database Automation with PgAgent.](https://psql.pro/db-automation-of-the-process/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Statistics
