@@ -11,7 +11,7 @@ I love SQL and think its can find anything from nothing.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Market Data with Python and BeautifulSoup.](https://psql.pro/scraping-historical-stock-market-data-with-python-and-beautifulsoup/)
+- [Market Data with Python and BeautifulSoup.](https://psql.pro/market-data-with-python-and-beautifulsoup/)
 - [Python on Ubuntu with cron.](https://psql.pro/python-on-ubuntu-with-cron/)
 - [Building a Portfolio Management System with SQL.](https://psql.pro/building-a-portfolio-management-system-with-sql/)
 - [Creating a Database with SQL.](https://psql.pro/creating-a-database-and-a-table/)
