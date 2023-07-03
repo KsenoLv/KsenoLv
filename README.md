@@ -11,11 +11,11 @@ I love SQL and think its can find anything from nothing.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Server set up – SQL requests.](https://psql.pro/server-set-up-sql-requests/)
 - [Server set up – SQL DB part.](https://psql.pro/server-set-up-sql-part/)
 - [Monitoring and Managing PostgreSQL DB](https://psql.pro/monitoring-and-managing-postgresql-db/)
 - [Market Data with Python and Beautiful Soup.](https://psql.pro/market-data-with-python-and-beautifulsoup/)
-- [Python on Ubuntu with cron.](https://psql.pro/python-on-ubuntu-with-cron/)
-- [Building a Portfolio Management System with SQL.](https://psql.pro/building-a-portfolio-management-system-with-sql/)
+- [Server set up – python on Ubuntu with cron.](https://psql.pro/python-on-ubuntu-with-cron/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Statistics
