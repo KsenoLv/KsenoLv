@@ -11,11 +11,11 @@ I love SQL and think its can find anything from nothing.
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Analyzing Stock Trades &lpar;Single&rpar;.](https://psql.pro/analyzing-stock-trades-single/)
 - [Server set up – roadmap.](https://psql.pro/server-set-up-roadmap/)
 - [Server set up – SQL requests.](https://psql.pro/server-set-up-sql-requests/)
 - [Server set up – SQL DB part.](https://psql.pro/server-set-up-sql-part/)
 - [Monitoring and Managing PostgreSQL DB](https://psql.pro/monitoring-and-managing-postgresql-db/)
-- [Market Data with Python and Beautiful Soup.](https://psql.pro/market-data-with-python-and-beautifulsoup/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Statistics
