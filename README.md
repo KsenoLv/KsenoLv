@@ -7,7 +7,7 @@ I love SQL and think its can find anything from nothing.
 
 ### Contacts
 * How to reach me: 📫 ksenofontov.mihail@gmail.com or 💬 [Telegram](https://t.me/psqlpro)
-* Read more about my projects at 💻 [psql.pro](https://www.psql.pro)
+* Read more about my projects at 💻 [kseno.eu](https://www.kseno.eu)
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
