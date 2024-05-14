@@ -9,13 +9,6 @@ I love SQL and think its can find anything from nothing.
 * How to reach me: 📫 ksenofontov.mihail@gmail.com or 💬 [Telegram](https://t.me/psqlpro)
 * Read more about my projects at 💻 [kseno.eu](https://www.kseno.eu)
 
-### Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Analyzing Stock Trades&lpar;Total&rpar;.](https://psql.pro/analyzing-stock-tradestotal/)
-- [Analyzing Stock Trades&lpar;Single&rpar;.](https://psql.pro/analyzing-stock-trades-single/)
-- [Server set up – roadmap.](https://psql.pro/server-set-up-roadmap/)
-- [Server set up – SQL requests.](https://psql.pro/server-set-up-sql-requests/)
-- [Server set up – SQL DB part.](https://psql.pro/server-set-up-sql-part/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Statistics
