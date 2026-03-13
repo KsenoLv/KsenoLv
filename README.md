@@ -7,7 +7,6 @@ I love SQL and think its can find anything from nothing.
 
 ### Contacts
 * How to reach me: 📫 ksenofontov.mihail@gmail.com
-* Read more about my projects at 💻 [LatBot.app](https://www.latbot.app)
 
 <!-- BLOG-POST-LIST:END -->
 
